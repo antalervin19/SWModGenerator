@@ -60,7 +60,13 @@ After compiling, you can use `ModGen.exe` directly from the command line to gene
 ### Generated Structure
 
 Running the tool will generate a folder with this structure:
-
-```<output_path> └── NewMod ├── audio ├── data ├── graphics ├── meshes └── mod.xml```
+```
+<output_path> 
+└── NewMod
+├── audio
+├── data
+├── graphics
+├── meshes
+└── mod.xml```
 
 The `mod.xml` file will contain the following structure:
