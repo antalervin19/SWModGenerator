@@ -67,6 +67,7 @@ Running the tool will generate a folder with this structure:
 ├── data
 ├── graphics
 ├── meshes
-└── mod.xml```
+└── mod.xml
+```
 
 The `mod.xml` file will contain the following structure:
