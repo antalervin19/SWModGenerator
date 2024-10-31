@@ -1,0 +1,2 @@
+# SWModGenerator
+Stormworks-ModGenerator
