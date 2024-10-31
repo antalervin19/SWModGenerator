@@ -63,11 +63,11 @@ Running the tool will generate a folder with this structure:
 ```
 <output_path> 
 └── NewMod
-├── audio
-├── data
-├── graphics
-├── meshes
-└── mod.xml
+   ├── audio
+   ├── data
+   ├── graphics
+   ├── meshes
+   └── mod.xml
 ```
 
 The `mod.xml` file will contain the following structure:
