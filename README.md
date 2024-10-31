@@ -71,3 +71,5 @@ Running the tool will generate a folder with this structure:
 ```
 
 The `mod.xml` file will contain the following structure:
+
+```<?xml version="1.0" encoding="UTF-8"?> <mod name="NewMod" author="My mods author" desc="Description for the mod"/> ```
