@@ -65,7 +65,7 @@ Running the tool will generate a folder with this structure:
 └── NewMod
    ├── audio
    ├── data
-   |   └──definitions
+   │   └──definitions
    ├── graphics
    ├── meshes
    └── mod.xml
