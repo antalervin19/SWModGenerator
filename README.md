@@ -74,3 +74,6 @@ Running the tool will generate a folder with this structure:
 The `mod.xml` file will contain the following structure:
 
 ```<?xml version="1.0" encoding="UTF-8"?> <mod name="NewMod" author="My mods author" desc="Description for the mod"/> ```
+
+### If you have any issues please report it to me on discord or create an issue here on github.
+### Happy Modding ;D
