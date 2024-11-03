@@ -6,7 +6,7 @@ def GenerateModFolder(output_path, name, description, author="Unknown"):
     mod_folder_path = os.path.join(output_path, name)
     os.makedirs(mod_folder_path, exist_ok=True)
     
-    subfolders = ["audio", "data", "graphics", "meshes"]
+    subfolders = ["audio", "data", "data/tiles", "data/definitions", "graphics", "meshes"]
     for subfolder in subfolders:
         os.makedirs(os.path.join(mod_folder_path, subfolder), exist_ok=True)
     
