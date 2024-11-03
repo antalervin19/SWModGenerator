@@ -8,6 +8,11 @@ This is a simple command-line tool for generating mod folder structures for Stor
 - Creates audio, data, graphics, and meshes subdirectories.
 - Generates a mod.xml file with the mod's name, author, and description.
 
+## PreBuild Releases:
+
+- There are currently 2 releases.
+- Download them and using ## Example Usage try them out
+
 ## Prerequisites
 
 To build the tool from the Python script, you need:
