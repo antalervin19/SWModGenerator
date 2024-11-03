@@ -11,7 +11,7 @@ This is a simple command-line tool for generating mod folder structures for Stor
 ## PreBuild Releases:
 
 - There are currently 2 releases.
-- Download them and using ## Example Usage try them out
+- Download them and using `Example Usage` try them out
 
 ## Prerequisites
 
