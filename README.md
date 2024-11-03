@@ -19,11 +19,11 @@ To build the tool from the Python script, you need:
 1. **Clone or download this repository.**
 2. **Install auto-py-to-exe** (used to compile the Python script):
 
-   `pip install auto-py-to-exe`
+   `pip install auto_py_to_exe`
 
 3. **Compile the Python script into an executable**:
 
-   Run `auto-py-to-exe` and configure it as follows:
+   Run `auto_py_to_exe` and configure it as follows:
    - Select the script (ModGen.py) as the script file.
    - Choose "One file" for packaging the .exe.
    - Set it to "Console Based" since this is a command-line tool.
